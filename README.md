@@ -70,6 +70,4 @@ hobbies:
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahonanami&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kahonanami&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5" width="95%" />
 </div>
