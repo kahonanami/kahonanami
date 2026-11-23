@@ -39,7 +39,7 @@ hobbies:
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,linux,bash&theme=dark" alt="Tech Stack" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
