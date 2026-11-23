@@ -29,7 +29,9 @@
 
 ```yaml
 handle: Azusaq
-education: China University of Mining and Technology (CUMT) · Information Security Undergrad (2024–Present)
+education:
+  university: China University of Mining and Technology (CUMT)
+  major: Information Security (Undergrad, 2024–Present)
 focus:
   - AI for Security & Security for AI
   - Binary Analysis & Reverse Engineering
