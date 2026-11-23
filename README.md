@@ -28,7 +28,7 @@
 ### 👨‍💻 About Me
 
 ```yaml
-handle: Azusaq
+id: Azusaq
 education:
   university: China University of Mining and Technology (CUMT)
   major: Information Security (Undergrad, 2024–Present)
@@ -50,7 +50,7 @@ hobbies:
 
 <div align="center" style="margin-top: 10px;">
   <img src="https://img.shields.io/badge/Gemini-1A1B27?style=flat-square&logo=googlegemini&logoColor=7AA2F7" />
-  <img src="https://img.shields.io/badge/Codex-1A1B27?style=flat-square&logo=coder&logoColor=9ECE6A" />
+  <img src="https://img.shields.io/badge/Codex-1A1B27?style=flat-square&logo=windowsterminal&logoColor=9ECE6A" />
   <img src="https://img.shields.io/badge/IDA_Pro-1A1B27?style=flat-square&logo=gnubash&logoColor=F7768E" />
   <img src="https://img.shields.io/badge/Reverse_Engineering-1A1B27?style=flat-square&logo=llvm&logoColor=BB9AF7" />
 </div>
