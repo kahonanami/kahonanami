@@ -1,10 +1,3 @@
-<div align="center">
-
-<!-- Banner Image -->
-<img src="./banner.jpg" alt="Banner" width="70%" />
-
-<br />
-
 <!-- Typing SVG -->
 <a href="https://github.com/kahonanami">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Azusaq+%F0%9F%91%8B;InfoSec+Undergrad+%40+CUMT" alt="Typing SVG" />
