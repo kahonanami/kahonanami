@@ -4,17 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Azusaq+%F0%9F%91%8B;InfoSec+Undergrad+%40+CUMT" alt="Typing SVG" />
 </a>
 
-<!-- Social & Contact Badges -->
-<p>
-  <a href="mailto:azusaq@qq.com">
-    <img src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=F7768E" alt="Email" />
-  </a>
-  <a href="https://azusaq.moe" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-1A1B27?style=for-the-badge&logo=vercel&logoColor=7AA2F7" alt="Blog" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=kahonanami&style=for-the-badge&color=7AA2F7&label=VIEWS&labelColor=1A1B27" alt="Profile Views" />
-</p>
-
 </div>
 
 ---
