@@ -25,12 +25,10 @@ hobbies:
 
 ### 🛠️ Tech Stack
 
-<div align="center" style="margin-top: 10px;">
   <!-- Languages & Shell -->
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Rust-2E204D?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Fish%20Shell-1A1B27?style=flat-square&logo=fishshell&logoColor=9ECE6A" alt="Fish Shell" />
 </p>
 
@@ -48,8 +46,6 @@ hobbies:
   <img src="https://img.shields.io/badge/OS-Windows-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
-</div>
-
 ---
 
 ### 📊 GitHub Stats
