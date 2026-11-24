@@ -22,8 +22,7 @@ hobbies:
 ```
 
 ---
-
-### 🛠️ Tech Stack
+<img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=kahonanami&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub Stats" />
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
@@ -46,12 +45,5 @@ hobbies:
   <img src="https://img.shields.io/badge/OS-Windows-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kahonanami&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahonanami&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" />
-</div>
 
 </div>
