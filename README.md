@@ -51,15 +51,6 @@ hobbies:
 
 ---
 
-### 🏆 Awards
-
-- 🥉 **18th National College Student Information Security Competition (CISCN)**  
-  *National Third Prize, Finals (2025)*
-- 🥈 **19th National College Student Information Security Competition (CISCN)**  
-  *Second Prize, Semifinals (2026)*
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
