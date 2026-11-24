@@ -46,7 +46,6 @@ hobbies:
   <img src="https://img.shields.io/badge/Gemini-1A1B27?style=flat-square&logo=googlegemini&logoColor=7AA2F7" />
   <img src="https://img.shields.io/badge/Codex-1A1B27?style=flat-square&logo=iterm2&logoColor=9ECE6A" />
   <img src="https://img.shields.io/badge/Fish_Shell-1A1B27?style=flat-square&logo=fishshell&logoColor=9ECE6A" />
-  <img src="https://img.shields.io/badge/Reverse_Engineering-1A1B27?style=flat-square&logo=llvm&logoColor=BB9AF7" />
 </div>
 
 ---
