@@ -21,8 +21,8 @@ hobbies:
   - Gaming (Action Games, Counter-Strike) 🎮
 ```
 
----
 <img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=kahonanami&show_icons=true&hide_border=true&bg_color=ffffff" alt="GitHub Stats" />
+
 ### 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
