@@ -23,6 +23,7 @@ hobbies:
 
 ---
 <img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=kahonanami&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub Stats" />
+
 ### 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
